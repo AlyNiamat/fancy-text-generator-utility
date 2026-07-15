@@ -10,7 +10,7 @@ Welcome to the **Fancy Text Generator Utility**! This open-source JavaScript lib
 ## Live Demo & Full Suite
 If you want to experience the complete online tool with 100+ premium text styles, direct copying, and social media integrations, visit the official live version:
 
-👉 **[Fancy Text Generator (Live Tool)](https://getfancytextgenerator.com)**
+👉 **[Fancy Text Generator](https://getfancytextgenerator.com)**
 
 ## Quick Start Guide
 
